@@ -1,0 +1,14 @@
+MIDlet-1: vsurveillance, vsurveillance.png, videosurveillance.video.Vi
+ deoTest
+MIDlet-Name: vsurveillance
+MIDlet-Permissions: javax.microedition.media.control.VideoControl.getS
+ napshot,javax.microedition.media.control.RecordControl,javax.microedi
+ tion.amms.control.camera.enableShutterFeedback,javax.microedition.sec
+ urityservice.CMSMessageSignatureService,javax.microedition.io.Connect
+ or.mms,javax.microedition.io.Connector.sms,javax.wireless.messaging.s
+ ms.send,javax.wireless.messaging.mms.send,javax.microedition.io.Conne
+ ctor.cbs,javax.wireless.messaging.cbs.receive
+MIDlet-Vendor: Sun Microsystems, Inc.
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0

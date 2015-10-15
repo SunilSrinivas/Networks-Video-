@@ -1,0 +1,5 @@
+-libraryjars C:\WTK25\lib\wma20.jar;C:\WTK25\lib\mmapi.jar;C:\WTK25\lib\midpapi20.jar;C:\WTK25\lib\wma11.jar;C:\WTK25\lib\cldcapi10.jar
+-injars C:\WTK25\apps\vsurveillance\bin\vsurveillance.jar
+-outjar C:\DOCUME~1\admin\LOCALS~1\Temp\vsurveillance.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
